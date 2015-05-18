@@ -1,0 +1,12 @@
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/bin/Music-Box.dll.mdb
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/bin/Music-Box.dll
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/obj/Debug/Music-Box.dll
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/obj/Debug/Music-Box.dll.mdb
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/bin/Microsoft.Web.Infrastructure.dll
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/bin/System.Web.Razor.dll
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/bin/System.Web.Helpers.dll
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/bin/System.Web.WebPages.dll
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/bin/System.Web.WebPages.Deployment.dll
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/bin/System.Web.WebPages.Razor.dll
+/Users/catherinejohnson/Projects/Music-Box/Music-Box/bin/System.Web.Mvc.dll

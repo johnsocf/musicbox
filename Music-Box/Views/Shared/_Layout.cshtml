@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,900' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<div class="container">
+		@RenderBody()
+	</div>
+</body>
+</html>
+
+<style>
+	.body {
+		width: 100%;
+	}
+	.container {
+		width: 400px;
+		margin: 0 auto;
+		background-color: #add8e6;
+		overflow: hidden;
+ 		padding: 10px;
+ 		margin-top: 50px;
+ 		border: 1px solid #0047AB;
+ 		box-shadow: 3px 3px 0 0 #f16da4;
+	  	border-right: none;
+	  	border-bottom: none;
+	}
+	h1 {
+		color: #FFFFFF;
+		font-family: 'Raleway';
+		margin: 0 0 10px 0;
+		text-transform: uppercase;
+	}
+	h2 {
+		font-family: 'Raleway';
+	}
+	.input-field, .btn {
+		float: left;
+		padding-top: 3px;
+	}
+	.input-field {
+		width: 300px;
+		margin-right: 10px;
+		border: 1px solid #0047AB;
+		margin-top: 1px;
+		background: #f16da4;
+  		box-shadow: 1px 1px 0 0 #000000;
+  		padding-left: 10px;
+  	  	color: white;
+	}
+	.btn {
+	  outline: none;
+	  border: none;
+	  background: #0047AB;
+	  color: #FFFFFF;
+	  font-family: 'Raleway';
+	  font-weight: 600;
+	  letter-spacing: .6px;
+	  margin-top: 1px;
+	  text-transform: uppercase;
+	}
+	p {
+	  margin: 5px 0;
+	  text-transform: uppercase;
+	  font-size: 12px;
+	  font-family: 'Raleway';
+	  color: #000000;
+	  letter-spacing: 2.5px;
+  	  font-weight: 600;
+  	  padding-left: 1px;
+	}
+	.input-field:focus {
+	  outline: none;
+	}
+</style>
