@@ -74,6 +74,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Artist.cs" />
+    <Compile Include="Controllers\SearchController.cs" />
+    <Compile Include="Models\HomeViewModel.cs" />
+    <Compile Include="ArtistRepository.cs" />
+    <Compile Include="iArtistRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
